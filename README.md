@@ -1,6 +1,5 @@
 # DLP_final
 ###### tags: `python`,`pytorch`,`opencv`,`style transfer`
-## 1. 利用opencv做前處理（搭配opencv_try.ipynb）
 this is dlp final project
 and more exactly
 I did some improvement wrt adain
