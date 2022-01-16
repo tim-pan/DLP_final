@@ -15,6 +15,7 @@ I namea this new model as **DDAdain**
 As you can see in this image\
 the right hand side is DDadain\
 the left hand side is adain\
+the middle bottom is the style image.\
 Ours is more meticulus and colorful than adain\
 
 ### for images:
