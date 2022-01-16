@@ -1,12 +1,14 @@
-# DLP_final
+# DLP_final_project
+## DDAdain: an Image Style Transfer model for improving adain[2] 
 ###### tags: `python`,`pytorch`,`opencv`,`style transfer`
 this is dlp final project
 ## Goal
 improve the performnace of adain[2]
 ## introduction
+This is the final project of Deep Learning Practice course in NYCU.
 and more exactly
 I did some improvement wrt adain
-I name this new model as **DDAdain**
+I namea this new model as **DDAdain**
 
 if you want to see the final result
 please refer to the following link
