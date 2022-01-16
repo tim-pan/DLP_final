@@ -10,8 +10,12 @@ and more exactly
 I did some improvement wrt adain
 I namea this new model as **DDAdain**
 
-if you want to see the final result
-please refer to the following link
+## Result
+![image](https://user-images.githubusercontent.com/65237732/149654860-73170d9c-54bc-4996-b011-bccb32ce5073.png)
+As you can see in this image\
+the right hand side is DDadain\
+the left hand side is adain\
+Ours is more meticulus and colorful than adain\
 
 ### for images:
 https://drive.google.com/drive/folders/1x-RdrQ5seEuaelPJJ5c2PBU82JpRImzl?usp=sharing
