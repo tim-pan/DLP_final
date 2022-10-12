@@ -1,7 +1,7 @@
 # DLP_final_project
 ## DDAdain: an Image Style Transfer model for improving adain[2] 
 ###### tags: `python`,`pytorch`,`opencv`,`style transfer`
-this is dlp final project
+DLP final project: style transfer for arbitrary style and content.
 ## Goal
 improve the performnace of adain[2]
 ## introduction
